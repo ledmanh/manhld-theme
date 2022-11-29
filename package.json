@@ -1,0 +1,35 @@
+{
+  "name": "manhld-theme",
+  "displayName": "Manhld Theme",
+  "publisher": "leducmanh",
+  "description": "The theme for people who like minimalism and beauty",
+  "version": "0.1.7",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ledmanh/manhld-theme"
+  },
+  "engines": {
+    "vscode": "^1.73.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "manhld",
+    "manhld-theme",
+    "dracula",
+    "dark",
+    "theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "manhld",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manhld.json"
+      }
+    ]
+  }
+}
