@@ -3,7 +3,7 @@
   "displayName": "Manhld Theme",
   "publisher": "leducmanh",
   "description": "The theme for people who like minimalism and beauty",
-  "version": "0.1.7",
+  "version": "0.0.1",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -16,17 +16,19 @@
     "Themes"
   ],
   "keywords": [
+    "mt",
     "manhld",
     "manhld-theme",
-    "dracula",
     "dark",
     "theme",
-    "color-theme"
+    "color-theme",
+    "dracula",
+    "dracula-official"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "manhld",
+        "label": "MT",
         "uiTheme": "vs-dark",
         "path": "./themes/manhld.json"
       }

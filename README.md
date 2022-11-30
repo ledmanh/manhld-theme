@@ -1,6 +1,6 @@
 # Manhld Theme - Minimalistic & Beautiful
 
-> This Theme based on [Evondev Dracula](https://github.com/evondev/evondev-dracula) ([dracula-official](https://github.com/dracula/dracula-theme))
+> This Theme based on [evondev-dracula](https://github.com/evondev/evondev-dracula) ([dracula-official](https://github.com/dracula/dracula-theme))
 
 ## Preview Theme
 
@@ -14,7 +14,7 @@
 
 ```json
 {
-  "workbench.colorTheme": "manhld",
+  "workbench.colorTheme": "MT",
   "editor.fontSize": 16,
   "editor.fontFamily": "SF Mono, Consolas",
   "editor.tabSize": 2,
@@ -29,7 +29,6 @@
   "editor.formatOnSave": true,
   "diffEditor.wordWrap": "on",
   "workbench.editor.wrapTabs": true
-  // etc.
 }
 ```
 
