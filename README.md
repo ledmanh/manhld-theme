@@ -28,8 +28,7 @@
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "diffEditor.wordWrap": "on",
-  "workbench.editor.wrapTabs": true,
-  "code-runner.runInTerminal": true // Used to run C++
+  "workbench.editor.wrapTabs": true
 }
 ```
 
