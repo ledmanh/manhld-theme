@@ -6,9 +6,9 @@
 
 > The code in the image is for illustrative purposes only, coded by [Son Dang](https://github.com/sondnpt00343/tiktok-ui)
 
-![html-scss-preview]()
-![js-json-preview]()
-![md-img-preview]()
+![html-scss-preview](https://i.ibb.co/BPRf9SG/html-scss.png)
+![js-json-preview](https://i.ibb.co/YjYvTSF/js-json.png)
+![md-img-preview](https://i.ibb.co/Dfd7PzY/img-md.png)
 
 ## My settings.json
 
